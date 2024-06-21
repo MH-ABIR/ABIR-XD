@@ -4,6 +4,6 @@ git clone https://github.com/ABIR-143/ABIR-XD
 
 cd ABIR-XD
 
-git pull
+chmod 777 abir
 
-python SPIDER.py
+./abir
