@@ -1,2 +1,2 @@
 import abirr
-abirr.___main___
+abirr.____Main___()
