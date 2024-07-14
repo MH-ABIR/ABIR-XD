@@ -1,1 +1,2 @@
-import abir
+import abirr
+abirr.___main___
