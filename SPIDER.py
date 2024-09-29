@@ -1,2 +1,2 @@
-import abirr
-abirr.____Main___()
+import ABIR
+ABIR.___SPIDER-XD___()
