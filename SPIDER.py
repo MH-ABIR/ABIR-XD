@@ -1,2 +1,1 @@
-import ABIR
-ABIR.____SPIDER____()
+import abir
