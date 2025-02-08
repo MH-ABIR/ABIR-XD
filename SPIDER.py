@@ -1,2 +1,2 @@
-import abir
-abir.____SPIDER____()
+import file
+file.FILE()
