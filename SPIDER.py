@@ -1,2 +1,2 @@
-import file
-file.FILE()
+import FILEX
+
