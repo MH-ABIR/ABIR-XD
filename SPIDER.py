@@ -1,2 +1,2 @@
-import my
-my.____Main___()
+import abir
+abir.____SPIDER____()
