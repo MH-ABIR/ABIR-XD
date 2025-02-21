@@ -1,6 +1,6 @@
 rm -rf ABIR-XD
 
-git clone https://github.com/MH-XD/ABIR-XD
+git clone https://github.com/MH-ABIR/ABIR-XD
 
 cd ABIR-XD
 
