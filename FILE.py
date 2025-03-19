@@ -1,1 +1,2 @@
 import FILE
+FILE.FILE()
