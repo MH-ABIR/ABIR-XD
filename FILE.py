@@ -1,2 +1,2 @@
 import FILE
-FILE.__FILE__()
+FILE.__FILEX__()
