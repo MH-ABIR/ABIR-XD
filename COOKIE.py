@@ -1,0 +1,2 @@
+import ck
+ck.menu()
