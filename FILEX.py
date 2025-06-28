@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-import FILEG
-FILEG.__FILEX__()
+import FILEH
+FILEH.__FILEX__()
