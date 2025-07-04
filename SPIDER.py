@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
 import abir
-abir.XD()
+abir.MAIN_MENU()
